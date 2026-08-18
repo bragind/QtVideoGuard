@@ -1,0 +1,13 @@
+/build/
+/out/
+/.vs/
+/.vscode/
+/.idea/
+/CMakeUserPresets.json
+*.user
+*.autosave
+*.log
+*.mp4
+*.avi
+*.mkv
+*.mov
